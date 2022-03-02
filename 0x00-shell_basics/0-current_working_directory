@@ -1,1 +1,3 @@
--r #!/bin/bash\n\npwd
+#!/bin/bash
+
+pwd
